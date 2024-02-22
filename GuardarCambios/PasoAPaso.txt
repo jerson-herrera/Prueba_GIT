@@ -12,4 +12,5 @@ Existen varias maneras de añadir nuestros archivos al (staging area):
 4. git add . // Este agregara TODOS los archivos automaticamente.
 
 
-3. El git commit
+3. El git commit nos permite CONFIRMAR los cambios en el repositorio local.
+git commit -m "Mi primer commit"
