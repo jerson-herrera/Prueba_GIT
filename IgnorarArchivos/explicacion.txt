@@ -1,0 +1,5 @@
+Esto es para NO SUBIR archivos al repositorio que contengan informacion personal,Tambien se pueden ignorar
+carpetas.
+
+1. El archivo que tenemos, que no queremos subir lo metemos NOMBRAMOS dentro de un archivo nuevo llamado
+.gitignore
