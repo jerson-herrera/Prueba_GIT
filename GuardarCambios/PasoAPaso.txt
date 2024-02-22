@@ -18,3 +18,11 @@ git commit -m "Mi primer commit"
 
 4. El git rm nos permite eliminar un archivo
 git rm nombre_del_archivo.txt
+
+
+5. El git restore --staged nos permite sacar los archivos que queramos de la parte de stage.
+git restore --staged nombre_del_archivo
+
+
+6. El git restore nos permite DESCARTAR los cambios.
+git restore nombre_del_archivo  
