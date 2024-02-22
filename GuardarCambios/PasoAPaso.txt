@@ -14,3 +14,7 @@ Existen varias maneras de añadir nuestros archivos al (staging area):
 
 3. El git commit nos permite CONFIRMAR los cambios en el repositorio local.
 git commit -m "Mi primer commit"
+
+
+4. El git rm nos permite eliminar un archivo
+git rm nombre_del_archivo.txt
