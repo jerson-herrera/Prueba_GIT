@@ -1,0 +1,15 @@
+1. El git status nos permite ver el estado actual de nuestro repositorio.
+git status
+
+
+2. El git add nos permite añadir los cambios a la zona de preparacion para que puedan ser incluidos
+en el proximo COMMIT.
+Existen varias maneras de añadir nuestros archivos al (staging area):
+
+1. git add nombre_del_archivo.txt  //Este agregara el archivo en especifico que hemos seleccionado.
+2. git add archivo1.txt archivo2.txt //Este nos permite agregar varios archivos a la vez, los que seleccionemos separando el nombre de los arhivos por un espacio.
+3. git add *.txt // Este agregara TODOS los archivos que tengan la extencion especificada ya sea (.txt .js .html .css) ETC../
+4. git add . // Este agregara TODOS los archivos automaticamente.
+
+
+3. El git commit

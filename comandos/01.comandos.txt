@@ -1,0 +1,18 @@
+// Para verficar la version de git se usa 
+git --version
+
+// Nos perimite listar todos los archivos y carpetas de un determinado directorio.
+ls
+
+// Ver en que directorio/carpeta estamos
+pwd
+
+// Nos permite movernos entre carpetas.
+cd nombre de la carpeta a la que queremos cambiar
+
+// Salir del directorio.
+cd ..
+
+// Para crear un directorio nuevo se usa
+mkdir nombre del directorio
+

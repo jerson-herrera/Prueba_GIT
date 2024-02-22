@@ -1,0 +1,5 @@
+1. instalar git
+
+2. Utilizar Git BASH en vez de la TERMINAL DE WINDOWS
+
+3. Configurar git   

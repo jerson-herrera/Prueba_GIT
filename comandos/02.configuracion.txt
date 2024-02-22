@@ -1,0 +1,25 @@
+//Para configurar el git de manera global, osea para que la configuracion se aplique 
+de manera global a todos nuestros proyectos.
+
+1. Configuracion de git con nuestro nombre.
+git config --global user.name "Jerson Herrera"
+
+
+2. Configuracion de git con nuestro correo electronico.
+git config --global user.email jeysonhwr@gmail.com
+
+3. Podemos indicarle a git que VSCode es nuestro editor de texto por defecto.
+git config --global core.editor "code --wait"
+
+4. Ver nuestro archivo de configuracion global.
+git config --global -e
+
+5. configurar el core.autocrlf, esto es para el salto de linea.
+en WINDOWS se usa CR, LF.
+en LINUX/MAC se usa LF.
+
+En caso de usar WINDOWS se usa:
+git config --global core.autocrlf true
+
+En caso de usar LINUX/MAC se usa:
+git config --global core.autocrlf input

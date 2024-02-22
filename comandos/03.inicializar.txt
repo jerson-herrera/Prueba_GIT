@@ -1,0 +1,11 @@
+1. Primero debemos estar en la carpeta o archivo que vamos a usar.
+
+
+2. Para inicializar se usa
+git init
+
+
+3. Abrir la carpeta
+code .
+
+4.
