@@ -1,0 +1,5 @@
+1. Una manera para ver el historial de nuestro repositorio es:
+git log            //Para salir presionamos la letra  q
+
+2. Otra manera de ver el historial seria 
+git log --oneline   //Para salir presionamos la lera  que
