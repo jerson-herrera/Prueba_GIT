@@ -1,0 +1,8 @@
+1. Para visualizar nuestro trabajo de otra manera sin usar el git status seria:
+git status -s
+
+2. Ver los cambios que se estan realizando en el archivo con:
+git diff
+
+3. Ver los cambios de los archivos que ya queremos comprometer osea que estan apunto de ser commiteados
+git diff --staged
