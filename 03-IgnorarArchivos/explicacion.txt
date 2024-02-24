@@ -3,3 +3,5 @@ carpetas.
 
 1. El archivo que tenemos, que no queremos subir lo metemos NOMBRAMOS dentro de un archivo nuevo llamado
 .gitignore
+
+VER LOS ARCHIVOS .env y .gitignore PARA ENTENDER MEJOR
