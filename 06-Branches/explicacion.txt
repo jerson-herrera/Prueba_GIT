@@ -1,0 +1,9 @@
+1. Ver en que rama nos encontramos con:
+git branch
+
+
+2. Para crear una rama nueva
+git checkout -b nombreDeNuestraRama
+
+
+3. 
